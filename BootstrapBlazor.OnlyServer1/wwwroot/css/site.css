@@ -337,3 +337,15 @@
 .cell-label {
     line-height: 35px;
 }
+
+.tabs {
+    height: calc(100vh - 90px);
+}
+
+.tabs-body {
+    height: calc(100% - 40px);
+}
+
+.table-fixed {
+    height: calc(100% - 47.19px);
+}
